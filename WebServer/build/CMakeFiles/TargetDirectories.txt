@@ -1,0 +1,9 @@
+/root/linux/a-high-concurrency-webserver-in-linux-master/WebServer/build/CMakeFiles/install/local.dir
+/root/linux/a-high-concurrency-webserver-in-linux-master/WebServer/build/CMakeFiles/install.dir
+/root/linux/a-high-concurrency-webserver-in-linux-master/WebServer/build/CMakeFiles/event_shared.dir
+/root/linux/a-high-concurrency-webserver-in-linux-master/WebServer/build/CMakeFiles/install/strip.dir
+/root/linux/a-high-concurrency-webserver-in-linux-master/WebServer/build/CMakeFiles/web_server.dir
+/root/linux/a-high-concurrency-webserver-in-linux-master/WebServer/build/CMakeFiles/edit_cache.dir
+/root/linux/a-high-concurrency-webserver-in-linux-master/WebServer/build/CMakeFiles/rebuild_cache.dir
+/root/linux/a-high-concurrency-webserver-in-linux-master/WebServer/build/CMakeFiles/event_static.dir
+/root/linux/a-high-concurrency-webserver-in-linux-master/WebServer/build/CMakeFiles/list_install_components.dir
